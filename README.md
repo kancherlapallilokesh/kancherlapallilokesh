@@ -9,7 +9,7 @@
 
 I am a passionate Full Stack AI Developer with hands-on experience in building scalable web applications and AI-powered solutions. I enjoy working on real-world problems using **AI, Web Development, and Data-driven systems**.
 
----
+
 
 ## 🎓 Education
 
@@ -18,7 +18,7 @@ PSCMR College of Engineering and Technology
 📅 July 2022 – May 2025
 📊 CGPA: 7.4
 
----
+
 
 ## 🛠️ Skills
 
@@ -43,7 +43,7 @@ PSCMR College of Engineering and Technology
 * Artificial Intelligence
 * Problem Solving
 
----
+
 
 ## 💼 Experience
 
@@ -57,7 +57,7 @@ SAB IT Services
 * Worked with MySQL databases
 * Used Git for collaboration and version control
 
----
+
 
 ## 🧠 Internships
 
@@ -65,7 +65,7 @@ SAB IT Services
 * SkillDzire – Artificial Intelligence Intern
 * S.S. Solutions – Android Developer Intern
 
----
+
 
 ## 📜 Certifications
 
@@ -76,7 +76,7 @@ SAB IT Services
 * Data Science – IBM
 * Full Stack Web Development – Brainovision
 
----
+
 
 ## 🏆 Key Achievements
 
@@ -84,7 +84,7 @@ SAB IT Services
 * Completed **3+ internships** in AI & Development
 * Certified in **AI, Data Science & Full Stack Development**
 
----
+
 
 ## 📂 Projects
 
@@ -97,12 +97,12 @@ SAB IT Services
 * Built appointment booking & consultation system
 * Designed user-friendly UI/UX
 
----
+
 
 ## 🌟 Career Goal
 
 To become a highly skilled **AI Engineer / Full Stack Developer**, building intelligent systems that solve real-world problems.
 
----
+
 
 ⭐ *“Build Smart. Learn Fast. Grow Strong.”*
