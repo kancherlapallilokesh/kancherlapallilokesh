@@ -4,7 +4,6 @@
 📍 Guntur, India
 📧 [kancharlapallilokesh71@gmail.com](mailto:kancharlapallilokesh71@gmail.com) | 📞 +91 6281289228
 
----
 
 ## 🚀 About Me
 
